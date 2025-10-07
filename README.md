@@ -36,23 +36,6 @@ This project automates the complete DevOps workflow:
 
 ☸️ Deployed on Minikube using Kubernetes manifests
 
-🏗️ Folder Structure
-Assignment/
-│
-├── devops_intern/
-│   ├── Dockerfile
-│   ├── k8s/
-│   │   ├── deployment.yaml
-│   │   └── service.yaml
-│   ├── .github/
-│   │   └── workflows/
-│   │       └── ci-cd.yml
-│   ├── images/
-│   │   ├── Screenshot_1.png
-│   │   └── Screenshot_2.png
-│   ├── README.md
-│   └── nextjs-app/        # Next.js source code
-
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
 git clone https://github.com/SUHEL782/Assignment.git
