@@ -12,7 +12,7 @@ Application successfully deployed and accessible at:
 | Homepage | Deployment Status |
 |-----------|-------------------|
 | ![Screenshot 1](./images/Screenshot1.png) | ![Screenshot 2](./images/Screenshot2.png) |
-![Screenshot 2](./images/Screenshot2.png) |
+![Screenshot 2](./images/Screenshot2.png)   | ![Screenshot 2](./images/Screenshot2.png) |
 
 
 👨‍💻 Created by
