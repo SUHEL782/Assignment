@@ -7,11 +7,12 @@ A complete DevOps assessment project demonstrating CI/CD automation, Docker cont
 Application successfully deployed and accessible at:
 👉 http://35.203.125.61:3000
 
-## 🖼️ Screenshots  
+## 🖼️ Screenshots
 
 | Homepage | Deployment Status |
 |-----------|-------------------|
-| ![App Screenshot](https://raw.githubusercontent.com/SUHEL782/Assignment/main/devops_intern/images/Screenshot_1.png) | ![Deployment Screenshot](https://raw.githubusercontent.com/SUHEL782/Assignment/main/devops_intern/images/Screenshot_2.png) |
+| ![Screenshot 1](./images/Screenshot1.png) | ![Screenshot 2](./images/Screenshot2.png) |
+
 
 👨‍💻 Created by
 
